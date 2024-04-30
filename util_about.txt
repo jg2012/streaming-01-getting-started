@@ -1,0 +1,27 @@
+
+======================================================================
+======================================================================
+ Welcome to the NW Python Debugging Information Utility!
+ Date and Time: 2024-04-29 at 09:26 PM
+ Operating System: posix Darwin 23.4.0
+ System Architecture: 64bit
+ Number of CPUs: 8
+ Machine Type: arm64
+ Python Version: 3.12.2
+ Python Build Date and Compiler: v3.12.2:6abddd9f6a with Feb  6 2024 17:02:06
+ Python Implementation: CPython
+ Active pip environment:   None
+ Active conda environment: None
+ Path to Interpreter:         /Library/Frameworks/Python.framework/Versions/3.12/bin/python3
+ Path to virtual environment: /Library/Frameworks/Python.framework/Versions/3.12
+ Current Working Directory:   /Users/joseguzman/Library/CloudStorage/OneDrive-nwmissouri.edu/Summer1/44671/streaming-01-getting-started
+ Path to source directory:    /Users/joseguzman/Library/CloudStorage/OneDrive-nwmissouri.edu/Summer1/44671/streaming-01-getting-started
+ Path to script file:         /Users/joseguzman/Library/CloudStorage/OneDrive-nwmissouri.edu/Summer1/44671/streaming-01-getting-started/util_about.py
+ User's Home Directory:       /Users/joseguzman
+ Terminal Environment:        VS Code
+ Terminal Type:               zsh
+ Preferred command:           python3
+ Is python3 available in PATH:   True
+ Is git available in PATH:      True 
+======================================================================
+======================================================================
